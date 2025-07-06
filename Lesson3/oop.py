@@ -37,3 +37,83 @@ Tuổi:           {self.age}
 Giới tính:      {self.gender}
 Trường học:     {self.school}
 ===============================''')
+        
+    # Phương thức chỉnh sửa thông tin
+        # Chỉnh sửa tuổi
+    def edit_age(self):
+        new_age = int(input('Nhập tuổi mới: '))
+        if new_age <= 0:        # Sai tuổi
+            print('Tuổi không hợp lệ')
+        else:                   # Đúng tuổi
+            # cập nhật tuổi cho đối tượng
+            self.age = new_age
+            print('Tuổi đã được cập nhật')
+        # Hiển thị lại thông tin sau chỉnh sửa
+        self.show_info()
+
+        # Chỉnh sửa tên
+    def edit_name(self, new_name):
+        # Chỉnh sửa tên của đối tượng
+        self.name = new_name
+        # Hiển thị lại thông tin sau chỉnh sửa
+        self.show_info()
+
+# Bài tập
+
+class Animal:
+    # Khởi tạo thuộc tính
+    def __init__(self, ten, loai):
+        self.ten = ten
+        self.loai = loai
+    
+    # Phương thức hiển thị thông tin
+    def show_info(self):
+        print(f'''
+========== THÔNG TIN =========
+Tên: {self.ten}
+Loài: {self.loai}
+==============================''')
+        
+    # Phương thức ăn
+    def eat(self):
+        print(f'{self.ten} đang ăn')
+
+class Dog(Animal):
+    # Khởi tạo thuộc tính
+    def __init__(self, ten, loai, giong):
+        super().__init__(ten, loai)  
+        self.giong = giong
+
+    # Phương thức hiển thị thông tin
+    def show_info(self):
+        print(f'''
+========== THÔNG TIN =========
+Tên: {self.ten}
+Loài: {self.loai}
+Giống: {self.giong}
+==============================''')
+        
+    # Phương thức cắn vật thể
+    def bite(self, obj):
+        print(f'{self.ten} đang cắn {obj}')
+
+
+    # Phương thức sửa tên
+    def edit_name(self, new_name):
+        # Chỉnh sửa tên của đối tượng
+        self.ten = new_name
+        # Hiển thị lại thông tin sau chỉnh sửa
+        self.show_info()
+
+    # Phương thức sửa giống
+    def edit_breed(self):
+        # Nhập thông tin mới
+        new_breed = input("Nhập giống mới: ")
+        # Chỉnh sửa giống của đối tượng
+        self.giong = new_breed
+        # Hiển thị lại thông tin sau chỉnh sửa
+        self.show_info()
+
+
+        
+    
