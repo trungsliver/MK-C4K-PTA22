@@ -35,3 +35,8 @@ def switch_window(classw):
 window = MainWindow()
 window.show()
 sys.exit(app.exec())
+
+# Cách chạy file:
+    # Bước 1: Chuột phải vào folder muốn chạy
+    # Bước 2: Chọn "Open in integrated Terminal"
+    # Bước 3: Nhập lệnh "python main.py"
