@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>796</width>
+    <height>591</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -61,6 +61,9 @@
       <bold>true</bold>
      </font>
     </property>
+    <property name="styleSheet">
+     <string notr="true">padding-left: 10px;</string>
+    </property>
     <property name="placeholderText">
      <string>Username</string>
     </property>
@@ -87,6 +90,9 @@
       <weight>75</weight>
       <bold>true</bold>
      </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">padding-left: 10px;</string>
     </property>
     <property name="placeholderText">
      <string>Email</string>
@@ -244,6 +250,9 @@
       <bold>true</bold>
      </font>
     </property>
+    <property name="styleSheet">
+     <string notr="true">padding-left: 10px;</string>
+    </property>
     <property name="echoMode">
      <enum>QLineEdit::Password</enum>
     </property>
@@ -273,6 +282,9 @@
       <weight>75</weight>
       <bold>true</bold>
      </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">padding-left: 10px;</string>
     </property>
     <property name="echoMode">
      <enum>QLineEdit::Password</enum>
