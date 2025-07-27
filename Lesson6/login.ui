@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>796</width>
-    <height>590</height>
+    <width>800</width>
+    <height>599</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -58,7 +58,7 @@
      <string>Password</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="btn_login">
+   <widget class="QPushButton" name="pushButton_login">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -151,8 +151,8 @@ background: rgb(166, 254, 255)</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>796</width>
-     <height>26</height>
+     <width>800</width>
+     <height>22</height>
     </rect>
    </property>
   </widget>
