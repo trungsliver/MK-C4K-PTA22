@@ -1,0 +1,15 @@
+# Quy tắc đặt tên folder: [TenLop]_[HoTen]_CP2
+# VD: PTA22_DucTrung_CP2
+
+# Yêu cầu: trong folder có file 
+    tracnghiem.txt
+    note.ui
+    main.py
+
+# Link đề bài: shorturl.at/zgdrF
+
+# Hạn nộp: 11h15
+
+
+
+
