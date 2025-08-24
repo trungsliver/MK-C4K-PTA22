@@ -1,0 +1,27 @@
+Thứ tự thuyết trình
+
+1. Đức Khiêm
+- Ý tưởng: giao diện roblox, nạp rút robux, mua bán sản phẩm roblox
+
+2. Mai Hoàng Minh
+-  Ý tưởng: Game đoán số
+
+3. Đăng Hoàng
+- Ý tưởng: calculator
+
+4. Minh Trí
+- Ý tưởng: bán đồ ăn
+
+5. Ngọc Minh
+- Ý tưởng: app chuyển đổi đơn vị (tiền tệ, khối lượng, độ dài)
+
+6. Bảo Hoàng 
+- Ý tưởng: app trắc nghiệm Quiz game
+
+7. Gia Bách
+
+8. Khôi Nguyên
+- Ý tưởng: cờ caro
+
+9. Duy An
+- Ý tưởng: App bán vé xem phim
