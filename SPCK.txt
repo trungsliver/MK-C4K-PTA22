@@ -2,6 +2,7 @@ Thứ tự thuyết trình
 
 1. Đức Khiêm
 - Ý tưởng: giao diện roblox, nạp rút robux, mua bán sản phẩm roblox
+- Slides: https://www.canva.com/design/DAGy54BTHNE/Hod-p-xnd9YmRe6OMLVsYA/edit
 
 2. Mai Hoàng Minh
 -  Ý tưởng: Game đoán số
@@ -9,6 +10,7 @@ Thứ tự thuyết trình
 
 3. Đăng Hoàng
 - Ý tưởng: calculator
+- Slides: https://www.canva.com/design/DAGy66LxwOU/CSR3bqKdFBgMlORYRzcYMg/edit
 
 4. Minh Trí
 - Ý tưởng: bán đồ ăn
@@ -32,4 +34,4 @@ Thứ tự thuyết trình
 
 9. Duy An
 - Ý tưởng: App bán vé xem phim
-- Slides: https://www.canva.com/design/DAGyRFD43sI/JJ1Bify_Xu8jpcPhrx9lEg/edit
+- Slides: https://www.canva.com/design/DAE5KMxp-Dg/nxULBnC1H5mUEsfRyZC8aQ/edit
